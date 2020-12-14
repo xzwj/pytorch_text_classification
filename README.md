@@ -1,4 +1,4 @@
-# pytorch_text_classification
+# PyTorch Implementations for Text Classification
 
 ## Dataset
 - IMDB
