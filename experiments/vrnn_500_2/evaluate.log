@@ -1,0 +1,28 @@
+2020-10-30 05:02:29,112:INFO: Loading the dataset...
+2020-10-30 05:02:32,459:INFO: - done.
+2020-10-30 05:02:35,009:INFO: Starting evaluation
+2020-10-30 05:02:44,098:INFO: - Eval metrics : accuracy: 0.833 ; loss: 0.701
+2020-10-30 05:31:48,239:INFO: Loading the dataset...
+2020-10-30 05:31:51,592:INFO: - done.
+2020-10-30 05:31:54,328:INFO: Starting evaluation
+2020-10-30 05:32:03,346:INFO: - Eval metrics : accuracy: 0.831 ; loss: 0.683
+2020-10-30 08:44:13,739:INFO: Loading the dataset...
+2020-10-30 08:44:17,146:INFO: - done.
+2020-10-30 08:44:19,800:INFO: Starting evaluation
+2020-10-30 08:44:28,753:INFO: - Eval metrics : accuracy: 0.822 ; loss: 1.151
+2020-10-30 09:48:59,593:INFO: Loading the dataset...
+2020-10-30 09:49:02,966:INFO: - done.
+2020-10-30 09:49:05,585:INFO: Starting evaluation
+2020-10-30 09:49:14,579:INFO: - Eval metrics : accuracy: 0.835 ; loss: 1.010
+2020-10-30 10:39:43,057:INFO: Loading the dataset...
+2020-10-30 10:39:46,484:INFO: - done.
+2020-10-30 10:39:49,121:INFO: Starting evaluation
+2020-10-30 10:39:58,160:INFO: - Eval metrics : accuracy: 0.852 ; loss: 0.960
+2020-10-30 11:18:31,282:INFO: Loading the dataset...
+2020-10-30 11:18:34,808:INFO: - done.
+2020-10-30 11:18:37,411:INFO: Starting evaluation
+2020-10-30 11:18:46,460:INFO: - Eval metrics : accuracy: 0.842 ; loss: 1.046
+2020-10-30 12:08:48,003:INFO: Loading the dataset...
+2020-10-30 12:08:53,203:INFO: - done.
+2020-10-30 12:08:55,821:INFO: Starting evaluation
+2020-10-30 12:09:05,018:INFO: - Eval metrics : accuracy: 0.850 ; loss: 0.944

@@ -1,0 +1,4 @@
+2020-10-30 02:30:55,032:INFO: Loading the dataset...
+2020-10-30 02:30:58,794:INFO: - done.
+2020-10-30 02:31:01,387:INFO: Starting evaluation
+2020-10-30 02:31:08,892:INFO: - Eval metrics : accuracy: 0.883 ; loss: 1.133

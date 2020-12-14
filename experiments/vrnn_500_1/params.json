@@ -1,0 +1,16 @@
+{
+    "lr": 2e-2,
+    "dropout": 0.2,
+    "batch_size": 32,
+    "num_epochs": 100,
+    
+    "save_summary_steps": 100,
+    "num_workers": 4,
+
+    "optim": "sgd",
+    "momentum": 0.9,
+    "lr_adjust": 20,
+
+    "emb_dim": 300,
+    "hidden_dim": 500
+}

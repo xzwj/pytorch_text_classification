@@ -1,0 +1,15 @@
+{
+    "lr": 1e-3,
+    "dropout": 0.4,
+    "batch_size": 32,
+    "num_epochs": 100,
+    
+    "save_summary_steps": 100,
+    "num_workers": 4,
+
+    "optim": "adam",
+    "momentum": 0.9,
+
+    "emb_dim": 300,
+    "hidden_dim": 50
+}
