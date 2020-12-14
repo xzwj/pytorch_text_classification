@@ -1,5 +1,12 @@
 # pytorch_text_classification
 
+## Dataset
+- IMDB
+
+## Model
+- Vanilla RNN
+- LSTM
+
 ## Experiment Settings and Results
 The word embedding vectors are taken from GloVe with dimension 300 and pretrained from the Wikipedia 2014 and Gigaword 5 corpus. Dropout is applied to word embedding layer. Cross entropy loss is used for every models. The first seven columns of Table 1 are their hyperparameter settings.
 
@@ -10,13 +17,13 @@ Table 1: Hyperparameter settings and experiment results. state_dim—state dimen
 |--------------------|------------------|-------------|------------------|-----------|--------------|----------------|----------------|
 |     Vanilla RNN    |     20           |     2e-2    |     20           |     32    |     SGD      |     0.2        |     83.8       |
 |                    |     50           |     2e-2    |     20           |     32    |     SGD      |     0.2        |     85.5       |
-|                    |     100          |     2e-2    |     20           |     32    |     SGD      |     0.2        |     86.3       |
+|                    |     100          |     2e-2    |     20           |     32    |     SGD      |     0.2        |     **86.3**       |
 |                    |     200          |     2e-2    |     20           |     32    |     SGD      |     0.2        |     85.8       |
 |                    |     500          |     2e-2    |     20           |     32    |     SGD      |     0.2        |     85.2       |
 |     LSTM           |     20           |     1e-3    |     -            |     32    |     Adam     |     0.4        |     87.9       |
 |                    |     50           |     1e-3    |     -            |     32    |     Adam     |     0.4        |     88.3       |
 |                    |     100          |     1e-3    |     -            |     32    |     Adam     |     0.4        |     88.6       |
-|                    |     200          |     1e-3    |     -            |     32    |     Adam     |     0.4        |     88.8       |
+|                    |     200          |     1e-3    |     -            |     32    |     Adam     |     0.4        |     **88.8**       |
 |                    |     500          |     1e-3    |     -            |     32    |     Adam     |     0.4        |     88.6       |
 
 
